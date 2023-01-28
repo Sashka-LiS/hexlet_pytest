@@ -1,0 +1,1 @@
+[![.github/workflows/hexlet-pytest.yml](https://github.com/Sashka-LiS/hexlet_pytest/actions/workflows/hexlet-pytest.yml/badge.svg)](https://github.com/Sashka-LiS/hexlet_pytest/actions/workflows/hexlet-pytest.yml)
